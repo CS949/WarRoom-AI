@@ -1,6 +1,16 @@
 <script setup>
 
-import { ref, onMounted, computed } from "vue";
+import {
+
+ref,
+
+onMounted,
+
+computed
+
+}
+
+from "vue";
 
 import axios from "axios";
 
@@ -286,7 +296,7 @@ Latest Decision
 
 <p
 
-class="mt-4 line-clamp-4"
+class="mt-4"
 
 >
 
@@ -315,6 +325,18 @@ class="text-4xl font-bold mb-8"
 Decision History
 
 </h2>
+
+<div
+
+v-if="!history.length"
+
+class="bg-white dark:bg-slate-900 rounded-3xl shadow-xl p-8 text-center"
+
+>
+
+No decisions yet.
+
+</div>
 
 <div
 
