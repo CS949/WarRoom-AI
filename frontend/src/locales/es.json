@@ -1,0 +1,19 @@
+{
+  "home": "Inicio",
+  "about": "Acerca de",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "La sala de juntas de IA donde agentes expertos debaten antes de tomar decisiones",
+  "decisionAnalysis": "Análisis de Decisión",
+  "decisionPlaceholder": "Escriba o diga su problema de decisión...",
+  "analyze": "Analizar Decisión",
+  "boardroom": "Sala de IA",
+  "consensus": "Puntuación de Consenso",
+  "conflict": "Puntuación de Conflicto",
+  "moderator": "Recomendación del Moderador",
+  "moderatorPlaceholder": "La recomendación final aparecerá aquí después del análisis.",
+  "aboutTitle": "Acerca de WarRoom AI",
+  "projectOverview": "Resumen del Proyecto",
+  "vision": "Visión",
+  "creator": "Creador",
+  "technology": "Tecnologías"
+}

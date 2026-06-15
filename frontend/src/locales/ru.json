@@ -1,0 +1,19 @@
+{
+  "home": "Главная",
+  "about": "О проекте",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "Совет ИИ, где экспертные агенты обсуждают решения",
+  "decisionAnalysis": "Анализ Решения",
+  "decisionPlaceholder": "Введите или произнесите ваш вопрос...",
+  "analyze": "Анализировать Решение",
+  "boardroom": "Совет ИИ",
+  "consensus": "Уровень Согласия",
+  "conflict": "Уровень Конфликта",
+  "moderator": "Рекомендация Модератора",
+  "moderatorPlaceholder": "Финальная рекомендация появится здесь после анализа.",
+  "aboutTitle": "О WarRoom AI",
+  "projectOverview": "Обзор Проекта",
+  "vision": "Видение",
+  "creator": "Создатель",
+  "technology": "Технологии"
+}

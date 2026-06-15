@@ -1,0 +1,19 @@
+{
+  "home": "ホーム",
+  "about": "概要",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "専門エージェントが意思決定前に議論するAI会議室",
+  "decisionAnalysis": "意思決定分析",
+  "decisionPlaceholder": "意思決定の問題を入力または音声で入力してください...",
+  "analyze": "分析開始",
+  "boardroom": "AI会議室",
+  "consensus": "合意スコア",
+  "conflict": "対立スコア",
+  "moderator": "モデレーターの提案",
+  "moderatorPlaceholder": "分析後に最終提案が表示されます。",
+  "aboutTitle": "WarRoom AIについて",
+  "projectOverview": "プロジェクト概要",
+  "vision": "ビジョン",
+  "creator": "作成者",
+  "technology": "技術スタック"
+}

@@ -1,0 +1,19 @@
+{
+  "home": "मुखपृष्ठ",
+  "about": "परिचय",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "एआई बोर्डरूम जहाँ विशेषज्ञ एजेंट निर्णयों पर बहस करते हैं",
+  "decisionAnalysis": "निर्णय विश्लेषण",
+  "decisionPlaceholder": "अपना निर्णय प्रश्न लिखें या बोलें...",
+  "analyze": "निर्णय का विश्लेषण करें",
+  "boardroom": "एआई बोर्डरूम",
+  "consensus": "सहमति स्कोर",
+  "conflict": "विरोध स्कोर",
+  "moderator": "मॉडरेटर की सिफारिश",
+  "moderatorPlaceholder": "विश्लेषण के बाद अंतिम सिफारिश यहाँ दिखाई जाएगी।",
+  "aboutTitle": "WarRoom AI के बारे में",
+  "projectOverview": "परियोजना परिचय",
+  "vision": "दृष्टि",
+  "creator": "निर्माता",
+  "technology": "प्रौद्योगिकी स्टैक"
+}

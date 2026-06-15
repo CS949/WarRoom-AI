@@ -1,0 +1,19 @@
+{
+  "home": "首页",
+  "about": "关于",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "人工智能董事会，专家代理在决策前进行讨论",
+  "decisionAnalysis": "决策分析",
+  "decisionPlaceholder": "输入或说出您的决策问题...",
+  "analyze": "分析决策",
+  "boardroom": "人工智能董事会",
+  "consensus": "共识评分",
+  "conflict": "冲突评分",
+  "moderator": "主持人建议",
+  "moderatorPlaceholder": "分析完成后将在此显示最终建议。",
+  "aboutTitle": "关于 WarRoom AI",
+  "projectOverview": "项目概述",
+  "vision": "愿景",
+  "creator": "创建者",
+  "technology": "技术栈"
+}

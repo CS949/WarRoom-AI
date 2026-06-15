@@ -1,0 +1,19 @@
+{
+  "home": "الرئيسية",
+  "about": "حول",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "غرفة اجتماعات الذكاء الاصطناعي حيث يناقش الوكلاء الخبراء القرارات",
+  "decisionAnalysis": "تحليل القرار",
+  "decisionPlaceholder": "اكتب أو تحدث عن مشكلة القرار...",
+  "analyze": "تحليل القرار",
+  "boardroom": "غرفة الذكاء الاصطناعي",
+  "consensus": "درجة التوافق",
+  "conflict": "درجة التعارض",
+  "moderator": "توصية المشرف",
+  "moderatorPlaceholder": "ستظهر التوصية النهائية هنا بعد التحليل.",
+  "aboutTitle": "حول WarRoom AI",
+  "projectOverview": "نظرة عامة على المشروع",
+  "vision": "الرؤية",
+  "creator": "المطور",
+  "technology": "التقنيات"
+}

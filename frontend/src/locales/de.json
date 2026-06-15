@@ -1,0 +1,19 @@
+{
+  "home": "Startseite",
+  "about": "Über",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "Der KI-Konferenzraum, in dem Experten-Agenten vor Entscheidungen diskutieren",
+  "decisionAnalysis": "Entscheidungsanalyse",
+  "decisionPlaceholder": "Geben Sie Ihr Entscheidungsproblem ein oder sprechen Sie es...",
+  "analyze": "Entscheidung Analysieren",
+  "boardroom": "KI-Konferenzraum",
+  "consensus": "Konsensbewertung",
+  "conflict": "Konfliktbewertung",
+  "moderator": "Moderator-Empfehlung",
+  "moderatorPlaceholder": "Die endgültige Empfehlung erscheint nach der Analyse hier.",
+  "aboutTitle": "Über WarRoom AI",
+  "projectOverview": "Projektübersicht",
+  "vision": "Vision",
+  "creator": "Ersteller",
+  "technology": "Technologie-Stack"
+}

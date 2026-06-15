@@ -1,0 +1,19 @@
+{
+  "home": "Home",
+  "about": "About",
+  "heroTitle": "WARROOM AI",
+  "heroSubtitle": "The AI Boardroom Where Expert Agents Debate Before Decisions Are Made",
+  "decisionAnalysis": "Decision Analysis",
+  "decisionPlaceholder": "Type or speak your decision problem...",
+  "analyze": "Analyze Decision",
+  "boardroom": "AI Boardroom",
+  "consensus": "Consensus Score",
+  "conflict": "Conflict Score",
+  "moderator": "Moderator Recommendation",
+  "moderatorPlaceholder": "Final recommendation will appear here after analysis.",
+  "aboutTitle": "About WarRoom AI",
+  "projectOverview": "Project Overview",
+  "vision": "Vision",
+  "creator": "Creator",
+  "technology": "Technology Stack"
+}
