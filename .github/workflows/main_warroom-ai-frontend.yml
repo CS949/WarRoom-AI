@@ -5,36 +5,37 @@ on:
     branches:
       - main
 
-  workflow_dispatch:
-
 jobs:
+
   build-and-deploy:
+
     runs-on: ubuntu-latest
 
     steps:
 
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
+
         with:
-          node-version: 22
+          node-version: '22'
 
       - name: Install dependencies
+
         run: |
           cd frontend
           npm install
 
-      - name: Build application
+      - name: Build Vue app
+
         run: |
           cd frontend
           npm run build
 
       - name: Deploy to Azure Web App
+
         uses: azure/webapps-deploy@v3
+
         with:
           app-name: warroom-ai-frontend
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: frontend/dist
-
